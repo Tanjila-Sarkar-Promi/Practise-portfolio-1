@@ -45,3 +45,6 @@ body{
     color: white;
     border-radius: 5px;
 }
+.half-width-second{
+    width: 30%;
+}
